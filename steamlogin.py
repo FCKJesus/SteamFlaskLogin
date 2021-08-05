@@ -6,7 +6,7 @@ from flask import Flask, redirect
 
 
 
-class SteamSignIn():
+class SteamLogin():
 
 	_provider = 'https://steamcommunity.com/openid/login'
 
