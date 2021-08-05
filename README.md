@@ -1,6 +1,6 @@
 # SteamFlaskLogin
 
-Quiq start
+Quick start
 ```pytohn
 from steamlogin import SteamLogin
 ```
