@@ -17,8 +17,8 @@ return 'Click <a href="/?login=true">to login</a>'
 login func
 ```python
 returnData = request.values
-steamLogin = SteamSignIn()
-steamID = steamLogin.ValidateResults(returnData)
+steamlogin = SteamLogin()
+steamID = steamlogin.ValidateResults(returnData)
 
 if steamID is not False:
 	return redirect(url_for('profile'))
