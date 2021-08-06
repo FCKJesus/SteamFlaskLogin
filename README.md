@@ -1,5 +1,7 @@
 # SteamFlaskLogin
 
+Небольшой класс позволяющий добавить вход на сайт с помощью сервиса Steam
+
 Quick start
 ```pytohn
 from steamlogin import SteamLogin
