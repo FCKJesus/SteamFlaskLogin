@@ -27,5 +27,3 @@ if steamID is not False:
 else:
 	return 'Failed to login'
 ```
-
-Данный код представлен для личного использования
